@@ -14,7 +14,7 @@ telar_language: "en"
 # Google Sheets Integration
 # See https://telar.org/docs/your-data/google-sheets/ for detailed setup instructions.
 google_sheets:
-  enabled: true
+  enabled: false
   published_url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRLjpXK62iFU5OIuRfpF6KIcj2-W7xpZ4AgWjd6tT_WiNQ-wDW8BxbS4WzmYySynsV61owa2kbYgREl/pubhtml"
 
 # Story Interface Settings
