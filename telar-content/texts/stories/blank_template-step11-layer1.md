@@ -1,6 +1,4 @@
----
-title: "Chapter Summary"
----
+**Summary: Precipitation**
 
 In this chapter, we learn of the frost god, Itztlacoliuhqui. Every year, the indigenous peoples knew a season of frost lasting 120 days would come and would therefore hold a feast in its honor. At the end of this 120 days, they knew it was time for planting:
 
