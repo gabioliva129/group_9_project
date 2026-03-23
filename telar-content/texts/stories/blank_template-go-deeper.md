@@ -2,12 +2,8 @@
 title: "Go deeper"
 ---
 
-Pablo Escalante Gonzalbo, "The Art of War, the Working Class, and Snowfall: Reflections on the Assimilation of Western Aesthetics," in The Florentine Codex, ed. Jeanette Peterson and Kevin Terraciano, chap. 4, 72.
+**Citaations**
 
-  
+Alfredo López Austin, The Human Body and Ideology: Concepts of the Ancient Nahuas, vol. 1 (Salt Lake City: University of Utah Press, 1988), 223–225. 
 
-Diana Magaloni, Colors of the New World, 30–31.
-
-  
-
-Oliver, Guilhem. "Teotl and Diablo." In The Florentine Codex, edited by Jeanette Peterson and Kevin Terraciano. Chap. 7, 116.
+David Carrasco, Religions of Mesoamerica: Cosmovision and Ceremonial Centers (Long Grove: Waveland Press, 2014), 58–60.

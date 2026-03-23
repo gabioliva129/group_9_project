@@ -3,10 +3,10 @@ step,object,x,y,zoom,page,question,answer,layer1_button,layer1_content,layer2_bu
 2,introduction_photo,0.5,0.4991666412353516,1,,What was Book 7 about?,"The 7th book of the *Florentine Codex* is entitled *""**Astrology and Natural Philosophy**""*, and it is the focus of our presentation. This book details some of the key lore, myths, creation stories, and religious practices that were practiced by indigenous people and shaped by the world around them. Their spirtual beliefs were deeply rooted in the natural world around them: rain, the stars, the Moon, the Sun, eclipses, and more. **We will expland upon a few natural phenomena and how the native peoples interpreted them as signs from gods and events that impact their lives.**",,,,
 3,chapter3-stars,0.5100676318507027,0.5062284723799532,0.9,,What did the stars mean to people?,"The text describes specific groups of stars, such as the stars called Mastelejos, which appeared near another star group known as the Cabrillas. When these stars appeared in the sky, people performed ceremonies and offerings, including the burning of incense at different times during the night. These rituals were meant to determine whether the coming night would bring good fortune or danger.
 
-- Alejandra",,,,
+- Alejandra",Learn more,blank_template-learn-more.md,Citations,blank_template-go-deeper.md
 4,ch_4_smoking_star,0.48239686963329487,0.2717167739059277,3.73725,,What is a “smoking star”?,"Comets and shooting stars were interpreted as powerful celestial omens. The text describes comets as “smoking stars”, whose appearance in the sky was believed to predict major events such as the death of rulers, war, or famine. Because of these associations, the sight of a comet created fear and uncertainty.
 
-- Alejandra",,,,
+- Alejandra",Learn more,blank_template-step4-layer1.md,Go deeper,blank_template-step4-layer2.md
 5,chapter1_solar_eclipse,0.5,0.5,1,,What did the Sun mean to the people?,"The Sun was viewed as a living deity that worked to illuminate the world when he was up in the sky. He was celebrated but also carried bad omens with certain events.
 
 - Nachiket",Learn more,blank_template-step5-layer1.md,Go deeper,blank_template-citations.md

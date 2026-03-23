@@ -1,0 +1,5 @@
+---
+title: "Learn more"
+---
+
+Comets were described as “smoking stars,” celestial events that signaled danger and disruption. Their appearance was believed to predict major events such as the death of rulers, war, or famine. Unlike the stars, which prompted ritual interpretation, comets were immediate warnings. Their movement across the sky, marked by a trailing tail, made them appear unstable and unnatural, reinforcing their association with disorder and fear. The Nahuatl text emphasizes the reaction of the people to these events. Comets and shooting stars were not only observed but feared, as they were believed to physically affect the world below. One passage describes how wounds could produce worms after being struck, which people attributed to shooting stars. Because of this, animals affected in such a way were not eaten, showing how celestial events influenced everyday decisions and behaviors.
