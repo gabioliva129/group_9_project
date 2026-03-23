@@ -4,7 +4,7 @@ title: "Text Analysis"
 
 One key difference between the Spanish and Nahuatl translations is that the Spanish translation did not mention a god once during the chapter, while the Nahuatl mentioned two gods (Itztlacoliuhqui and Tlolac). The Nahuatl description explains:
 
-> *“The frost \[god\] was called Itztlacoliuhqui. Once yearly the cold came. During the \*\*feast\*\* of Ochpaniztli the cold began. And for one hundred and twenty days-one hundred and twenty suns-this persisted and there was cold. And it ended and disappeared \[during the feast\] called Tititl.”*
+> *“The frost [god] was called Itztlacoliuhqui. Once yearly the cold came. During the **feast** of Ochpaniztli the cold began. And for one hundred and twenty days-one hundred and twenty suns-this persisted and there was cold. And it ended and disappeared [during the feast] called Tititl.”*
 
 They describe the cold beginning once they begin their annual feast celebrations in honor of the god Itztlacoliuhqui. Meanwhile, the Spaniards describe the same passage as follows:
 
