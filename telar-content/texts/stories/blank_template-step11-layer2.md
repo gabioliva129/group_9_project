@@ -1,26 +1,13 @@
 ---
-title: "Go deeper"
+title: "Text Analysis"
 ---
 
-**
+One key difference between the Spanish and Nahuatl translations is that the Spanish translation did not mention a god once during the chapter, while the Nahuatl mentioned two gods (Itztlacoliuhqui and Tlolac). The Nahuatl description explains:
 
-In this chapter, we learn of the frost god, Itztlacoliuhqui. Every year, the indigenous peoples knew a season of frost lasting 120 days would come and would therefore hold a feast in its honor. At the end of this 120 days, they knew it was time for planting:
+> *“The frost \[god\] was called Itztlacoliuhqui. Once yearly the cold came. During the \*\*feast\*\* of Ochpaniztli the cold began. And for one hundred and twenty days-one hundred and twenty suns-this persisted and there was cold. And it ended and disappeared \[during the feast\] called Tititl.”*
 
-*\“For the frost hath departed. Now there will be sowing–it will be the time of sowing. Already land will be planted, so that \[seeds\] will be placed in the soil. Already it is warm, mild, calm. Already the season is good, the time is propitious; the hour is at hand; the time is ripe; the moment hath come."\*
+They describe the cold beginning once they begin their annual feast celebrations in honor of the god Itztlacoliuhqui. Meanwhile, the Spaniards describe the same passage as follows:
 
-Itztlacoliuhqui is an important figure in native religion. He is known as the god of frost, ice, cold, winter, sin, punishment and human misery. He is often shown to be holding a straw broom in his hand, symbolizing his function as the cleaner of the way for new life to emerge thereafter \[1\].
+> *“They indicated a specific season for frost, saying that every year the frost would persist for one hundred twenty days, and that ice would start from the **month** that they called Ochpaniztli until the month called Tititl.”*
 
-The chapter then tells of snow (which was thought to indicate that there would be a prosperous harvest in the coming season), clouds (which were thought to be a sign of Tlolac’s presence and knew describe which clouds they knew that brought heavy rain), and hail (something that was so devastating to crops that they had teams of sorcerers that would cast away hail clouds so they wouldn’t cause damage).
-
-This chapter demonstrates their strong connection to the world around them, their deep understanding of seasons/climate and how they play a role in agriculture, and how natural phenomena (like a certain type of cloud or snowy winter) are indications from a god that their fortunes have changed or that a certain weather pattern will play out.
-
-The imaged displayed on this page depicts three kinds of naturally occurring phenomena: clouds, snow, and hail. Big, dark clouds like the ones drawn were known to bring heavy rains and were said to be from the rain and water god, Tlaloc. Snow was thought to be a sign of good luck for the following harvest season. Hail was a bad omen as it caused a lot of damage to their crops and would harm animals.
-
-
-Keep reading to learn more about the differences in this story between the Spanish and Nahuatl translations...
-
-  
-
-\[1\] Andrews, J. Richard (2003). Introduction to Classical Nahuatl (Revised ed.). Norman: University of Oklahoma Press; ’Los Dioses Menores’ by Salvador Mateos Higuera Enciclopedia Gráfica del México Antiguo. Mexico City, 1994.
-
-**
+Here, they refer to the celebratory and devotional festivals simply as "months," they do not mention a god, and their tone does not show as much reverence for the culture and practices behind these festivals and this season of frost. This demonstrates the priorities of the Spanish people when documenting this Codex. They wanted less to immortalize how their gods were embedded into all of their practices, but wanted to gloss over that and show the native peoples’ customs and knowledge of the world around them. With the Spanish goal of converting the Aztec people to Christianity, they held less importance for each of their several gods that influenced the natural world.
