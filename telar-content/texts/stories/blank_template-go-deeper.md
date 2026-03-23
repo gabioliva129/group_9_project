@@ -2,7 +2,7 @@
 title: "Go deeper"
 ---
 
-**Citaations**
+**Citations**
 
 Alfredo López Austin, The Human Body and Ideology: Concepts of the Ancient Nahuas, vol. 1 (Salt Lake City: University of Utah Press, 1988), 223–225. 
 
